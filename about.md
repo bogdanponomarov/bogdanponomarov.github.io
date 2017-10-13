@@ -6,7 +6,7 @@ layout: page
 
 <p align="center"><i>Avoiding the phrase "I don't have time...", will soon help you to realize that you do have the time needed for just about anything you choose to accomplish.</i></p>
 
-<p>Happier traveling 🌏 • Ukrainian 🇺🇦👨🏻‍💻 • 3️⃣0️⃣+ countries • Currently: 🏡❤️</p>
+<p>Happier traveling 🌏 • Ukrainian 🇺🇦👨🏻‍💻 • 35+ countries • Currently: 🇳🇿</p>
 
 <h2>Skills/Hobbies</h2>
 
