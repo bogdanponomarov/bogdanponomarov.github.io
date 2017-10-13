@@ -12,9 +12,7 @@ category: blog
 author: bogdanponomarov
 externalLink: false
 ---
-# How to Get The Broadband Speed You Actually Pay For?
-
-You might be paying your ISP for a certain internet plan, but have no idea whether you get the broadband speed you actually pay for. The best way to find out is to test it yourself.
+`You might be paying your ISP for a certain internet plan but have no idea whether you get the broadband speed you actually pay for. The best way to find out is to test it yourself.`
 
 If you are anything like us, kiwis find it difficult to trust new services and start using new products. But believe us, when it comes to checking our internet speed, we go to [Broadband Speed Check](http://broadbandspeedcheck.co.nz/). This broadband speed tester will measure the upload and download speeds of your internet connection in a couple of clicks.
 
