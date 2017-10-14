@@ -42,7 +42,7 @@ instagram: h_a_p_p_i_e_r
 linkedin: bogdanponomarov
 # youtube: myyoutube
 # spotify: myspotify
-# github: bogdanponomarov
+# github: mygithub
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
@@ -65,7 +65,7 @@ authors:
 width: normal
 
 # if you don't need pagination, comment the *paginate* configs below
-paginate: 5
+paginate: 4
 paginate_path: "/page/:num/"
 
 # if you don't need projects, comment the *projects* configs below
