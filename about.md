@@ -6,13 +6,13 @@ layout: page
 
 <p align="center"><i>Avoiding the phrase "I don't have time...", will soon help you to realize that you do have the time needed for just about anything you choose to accomplish.</i></p>
 
-<p>Happier traveling 🌏 • Ukrainian 🇺🇦👨🏻‍💻 • 35+ countries • Currently: 🇳🇿</p>
+<p>Happier traveling 🌏 • Ukrainian 🇺🇦👨🏻‍💻 • 50+ countries • Currently: 🇨🇦</p>
 
 <h2>Skills/Hobbies</h2>
 
 <ul class="skill-list">
 	<li>Personal Development</li>
-	<li>Digital Marketing</li>
+	<li>Web Development</li>
 	<li>Customer Success</li>
 	<li>Learning Languages</li>
 	<li>Reading</li>
